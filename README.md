@@ -10,3 +10,4 @@ Everyone in the group is going to clone this repository and one by one each of y
 1. Everyone in the group clones this repository.
 2. One person pulls the most recent changes, edits the text file, writes the next sentence, makes a commit, and pushes the changes up.
 3. Repeat Step 3 until everybody has done it.
+4. Celebrate! You just learned the basics of git 🎉
