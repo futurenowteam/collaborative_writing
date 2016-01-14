@@ -7,10 +7,11 @@ Everyone in the group is going to clone this repository and one by one each of y
 This assignment is going to teach you how to collaborate using git on GitHub. This means cloning a repository, pulling the changes that other people have made, and pushing your changes up. You might even come across merge conflicts.
 
 ## Assignment
-1. Everyone in the group clones this repository.
-2. One person pulls the most recent changes, edits the text file, writes the next sentence, makes a commit, and pushes the changes up.
-3. Repeat Step 3 until everybody has done it.
-4. Celebrate! You just learned the basics of git 🎉
+1. One person in the group forks this repository.
+2. Everyone in the group clones that person's repository.
+3. One person pulls the most recent changes, edits the text file, writes the next sentence, makes a commit, and pushes the changes up.
+4. Repeat Step 3 until everybody has done it.
+5. Celebrate! You just learned the basics of git 🎉
 
 ## Important Git Commands
 
