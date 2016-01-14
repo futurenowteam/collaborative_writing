@@ -2,6 +2,8 @@
 
 Today you are going to write a short story but unfortunately, because of time constraints, you’ll need to enlist the help of your teammates.
 
+blah blah blah
+
 Everyone in the group is going to clone this repository and one by one each of you will write the next sentence. In the end you will have a story that starts off with the sentence we give you and finishes with what you and your group writes.
 
 This assignment is going to teach you how to collaborate using git on GitHub. This means cloning a repository, pulling the changes that other people have made, and pushing your changes up. You might even come across merge conflicts.
