@@ -33,8 +33,10 @@ $ git commit -m "<message>"
 
 # shows history of commits
 $ git log
-Remote Repositories (Github)
+```
 
+### Remote Repositories (Github)
+```
 # maps server url to "origin"
 $ git remote add origin <server url>
 
@@ -46,8 +48,10 @@ $ git push origin <branch name>
 
 # copies a new remote repo to computer
 $ git clone <server url>
-Branching
+```
 
+###Branching
+```
 # shows all branches
 $ git branch
 
